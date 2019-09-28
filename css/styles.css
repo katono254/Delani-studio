@@ -11,6 +11,17 @@
     background-position: center;
     background-size: 100%,100%;
     background-repeat: no-repeat;
-    
 
+}
+h1{
+    text-align: center;
+    color: #fff;
+    font-family: 'Rajdhani', sans-serif;
+    font-size: 70px;
+
+}
+p{
+    text-align: center;
+    color: #fff;
+    font-size: 12px;
 }
