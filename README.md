@@ -1,4 +1,4 @@
-# {Application Name}
+# {Delani-Studio}
 #### {Brief description of application}, {Date of current version}
 #### By **{List of contributors}**
 ## Description
