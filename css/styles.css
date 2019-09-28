@@ -36,5 +36,16 @@ img[id="img2"]{
     margin-bottom: 5%;
 }
 
+h2{
+    text-align: center;
+    font-size: 67px;
+}
+p[class="ped"]{
+    color: black;
+    font-size: 15px;
+}
+
+
+
 
 
