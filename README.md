@@ -1,7 +1,7 @@
 # {Delani-Studio}
 #### {Delani Studio is a team of collaborators which our software development processes are intergrated,
 iterative and agile}, {28/09/2019}
-#### By **{List of contributors}**
+#### By **{Greg Katono a software developer and Moringa school}**
 ## Description
 {This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
 ## Setup/Installation Requirements
