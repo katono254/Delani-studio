@@ -25,3 +25,9 @@ p{
     color: #fff;
     font-size: 12px;
 }
+img[class="img1"]{
+    margin-left: 45%;
+    margin-top: 10%;
+    margin-bottom: 5%;
+}
+
