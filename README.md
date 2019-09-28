@@ -3,7 +3,8 @@
 iterative and agile}, {28/09/2019}
 #### By **{Greg Katono a software developer and Moringa school}**
 ## Description
-{This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
+{Delani Studio approaches design,development and product managment to create exceptional products. 
+We basically start each project by understanding a users business goals and the product requirements. }
 ## Setup/Installation Requirements
 * This is a great place
 * to list setup instructions
