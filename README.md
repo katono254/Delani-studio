@@ -15,7 +15,7 @@ We basically start each project by understanding a users business goals and the 
 ## Known Bugs
 {They are no bugs to the application.}
 ## Technologies Used
-{Th}
+{The languages that is used are HTML,CSS JAVASCRIPT,JQUERY and BOOTSTARP.}
 ## Support and contact details
 {Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}
 ### License
