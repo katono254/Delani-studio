@@ -58,9 +58,12 @@ div[id="design"]{
     margin-left: 6%;
 }
 div[id="development"]{
-    margin-left: 45%;
+    margin-left: 42%;
     margin-top: -24%;
 }
-
+div[id="product"]{
+    margin-left: 77%;
+    margin-top: -24%;
+}
 
 
