@@ -100,8 +100,18 @@ input[id="email"] {
     background: rgb(0, 0, 0);
     background: rgba(0, 0, 0, 0.5);
 }
-
-
-
+.design-hidden{
+    display: none;
+}
+.development-hidden{
+    display: none;
+}
+.product-hidden{
+    display: none;
+}
+div[id="us"]{
+    background-image: url(../img/assets/backgrounds/c_image.jpg);
+    
+}
 
 
