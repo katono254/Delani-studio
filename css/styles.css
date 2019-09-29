@@ -115,6 +115,10 @@ h1[class="contact"]{
 .col-md-3:hover{
     opacity: 0.3;
 }
+.col-md-3 img{
+    width: 300px;
+
+}
 
 
 
