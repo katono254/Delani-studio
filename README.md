@@ -6,11 +6,9 @@ iterative and agile}, {28/09/2019}
 {Delani Studio approaches design,development and product managment to create exceptional products. 
 We basically start each project by understanding a users business goals and the product requirements. }
 ## Setup/Installation Requirements
-* This is a great place
-* to list setup instructions
-* in a simple
-* easy-to-understand
-* format
+* In google chrome type in DELANI STUDIO.
+* Simply click on it and the instructions are there.
+
 {First you need to create an account with us and also you need to confirm that you are not a robot.Our team will soon write you an email with simple instructions to follow.}
 ## Known Bugs
 {They are no bugs to the application.}
