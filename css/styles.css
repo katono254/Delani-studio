@@ -72,7 +72,7 @@ h1[class ="what"]{
 
 }
 h1[class="contact"]{
-    color:white;
+    color: black;
     font-size: 47px;
     font-family: 'Lato', sans-serif;
 }
@@ -100,23 +100,9 @@ input[id="email"] {
     background: rgb(0, 0, 0);
     background: rgba(0, 0, 0, 0.5);
 }
-.design-hidden{
-    display: none;
-}
-.development-hidden{
-    display: none;
-}
-.product-hidden{
-    display: none;
-}
-div[id="us"]{
-    background-image: url(../img/assets/backgrounds/c_image.jpg);
-    background-size: 100%,100%;
-    background-repeat: no-repeat;
-    text-align: center;
-    background-position: center;
-    padding: 100px;
-    margin: 46px;
-}
+div[id =]
+
+
+
 
 
