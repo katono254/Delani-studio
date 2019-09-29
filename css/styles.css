@@ -54,7 +54,9 @@ div[class="services"]{
 p[class="fen"]{
     font-size: 15px;
 }
-
+div[id="design"]{
+    margin-left: 6%;
+}
 
 
 
