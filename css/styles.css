@@ -100,7 +100,21 @@ input[id="email"] {
     background: rgb(0, 0, 0);
     background: rgba(0, 0, 0, 0.5);
 }
-div[id =]
+div[id ="us"]{
+    background-image: url(../img/assets/backgrounds/c_image.jpg);
+    background-size: 100%,100%;
+    background-repeat: no-repeat;
+    text-align: center;
+    background-position: center;
+    padding: 100px;
+    margin: 40px;
+}
+h1[class="contact"]{
+    color: #fff;
+}
+.col-md-3:hover{
+    opacity: 0.3;
+}
 
 
 
