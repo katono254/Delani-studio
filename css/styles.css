@@ -51,6 +51,9 @@ div[class="services"]{
     text-align: center;
     color: #fff;
 }
+p[class="fen"]{
+    font-size: 15px;
+}
 
 
 
