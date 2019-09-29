@@ -67,10 +67,15 @@ div[id="product"]{
 }
 h1[class ="what"]{
     color: black;
+    font-size: 66px;
     
 
 }
-
+h1[class="contact"]{
+    color: black;
+    font-size: 47px;
+    font-family: 'Lato', sans-serif;
+}
 
 
 
