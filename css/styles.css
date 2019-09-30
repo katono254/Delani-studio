@@ -119,6 +119,31 @@ h1[class="contact"]{
     width: 300px;
 
 }
+div[class="social"]{
+    margin-left: 35%;
+}
+.design-hidden {
+    display: none;
+    color: black;
+  }
+
+#black{
+    color: black;
+}
+.development-hidden {
+    display: none;
+  }
+.product-hidden {
+    display: none;
+}
+#portfolios{
+    padding-top: 5%;
+}
+
+.we-do{
+    display: flex;
+    /* flex-direction: row; */
+}
 
 
 
